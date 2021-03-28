@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xyx",
+    "xzx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:stone"
+    },
+    "y":
+    {
+      "item": "minecraft:stone_pressure_plate"
+    },
+    "z":
+    {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result":
+  {
+    "item": "suspiciousblocks:suspicious_stone",
+    "count": 1
+  }
+}
